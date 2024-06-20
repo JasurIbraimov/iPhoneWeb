@@ -1,0 +1,7 @@
+Creating react app with vite
+npm create vite@latest . --template react
+
+
+Adding tailwind css
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
